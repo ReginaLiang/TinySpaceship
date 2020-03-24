@@ -1,0 +1,522 @@
+[     0s] Build frontend of artifacts\buildprogram\buildprogram_buildprogram.dag ran (build file timestamp changed: ../PackageCache/com.unity.dots.runtime@0.22.0-preview.5/bee~/BuildProgramBuildProgramSources)
+[4/6  1s] Csc artifacts/buildprogram/buildprogram_buildprogram.exe (+2 others)
+[     0s] Destroying Roslyn Shared Compiler Server
+[     3s] Build frontend of artifacts\buildprogram\tundra_buildprogram.dag ran (build file timestamp changed: ../PackageCache/com.unity.dots.runtime@0.22.0-preview.5/bee~/BuildProgramBuildProgramSources)
+[11/13  3s] Csc artifacts/buildprogrambuildprogram.exe/Release/buildprogrambuildprogram.exe (+2 others)
+[       0s] Destroying Roslyn Shared Compiler Server
+C:/buildslave/unity/build/Tools/Bee/Bee.Toolchain.VisualStudio/MsvcVersions/WindowsSDKs.cs(127): warning: Registry says that Windows 10 SDK version 10.0.17134.0 should be installed at C:\Program Files (x86)\Windows Kits\10\, but we can't find it there. Will fallback to non-registry based SDK detection.
+Warning: UseBurst specified, but target does not support burst yet. Not using burst.
+Warning: UseBurst specified, but target does not support burst yet. Not using burst.
+[       1s] Executed build program. Created build graph with 1085 nodes.
+[     9s] Build frontend of artifacts\tundra_Web-Wasm_3mi.dag ran (no suitable previous build dag file)
+[  11/1058  0s] WriteResponseFile artifacts/rsp/15624261561212772957.rsp
+[  12/1058  0s] WriteResponseFile artifacts/rsp/16309512534910929795.rsp
+[  13/1058  0s] WriteResponseFile artifacts/rsp/9427858826589182664.rsp
+[  14/1058  0s] WriteResponseFile artifacts/rsp/652836006647589213.rsp
+[  15/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/636f5c299902140a2b50cb418abb6a04
+[  16/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/cca1e09795602416a974a42372e0d08b
+[  17/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/cfe121af48f74379a2223ff58fc6ef1d
+[  18/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/46b433b264c69cbd39f04ad2e5d12be8
+[  19/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/e1fe4d97445ee8620dda868bacf14085
+[  20/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/84c4016ac6d6d42a6d62aa6e9a7fc418
+[  21/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/c6aaf756d6b5922d6636efac720118a3
+[  22/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/b1ede3f1dfdabd1c0f9d93fb12c44285
+[  23/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/ab5a3a448d0d38e483c740c25ad0079b
+[  24/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/de8cb40fcc86c67c5470bcc66c1cd70b
+[  25/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/b25fc184e8a0c4460a2292c5b4ce3ccc
+[  26/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/abdc0a36d740449244a4e0ee96c94373
+[  27/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/9729a438fffed3b30d5e8be964f88bd6
+[  28/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/7a4cd1dbc5a0f0d27c33f9aadfc84b3d
+[  29/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/77a7c25620eb5751127030291528a8b8
+[  45/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/36fc9dadf4a1142afba7433124a28fd2
+[  74/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/7f38f21f1166cf4d3691372a33e5a049
+[ 370/1058  0s] CopyTool ../../Builds/Web-Wasm/Data/95c3835b1e1ad3aac327eb1d929cbb40
+[ 614/1058  0s] C_WebGL_wasm artifacts/lib_unity_lowlevel/Web-Wasm/atyb/dummy.o
+[ 615/1058  0s] C_WebGL_wasm artifacts/lib_unity_lowlevel/Web-Wasm/it3p/guard.o
+[ 616/1058  0s] C_WebGL_wasm artifacts/lib_unity_zerojobs/Web-Wasm/atyb/dummy.o
+[ 617/1058  1s] C_WebGL_wasm artifacts/lib_unity_lowlevel/Web-Wasm/it3p/allocators.o
+In file included from E:/20200323_Test2D/ProjectTinySamples-master/TinySpaceship/Library/PackageCache/com.unity.dots.runtime@0.22.0-preview.5/LowLevelSupport~/Unity.LowLevel/cpp~/allocators.cpp:1:
+
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\PackageCache\com.unity.dots.runtime@0.22.0-preview.5\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+
+namespace Unity::LowLevel
+
+               ^~~~~~~~~~
+
+                { namespace LowLevel
+
+1 warning generated.
+[ 618/1058  1s] C_WebGL_wasm artifacts/lib_unity_lowlevel/Web-Wasm/it3p/BurstInit.o
+[ 619/1058  0s] C_WebGL_wasm artifacts/lib_unity_zerojobs/Web-Wasm/8jil/ZeroJobsNativeSupport.o
+[ 620/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_core/Web-Wasm/atyb/dummy.o
+[ 621/1058  1s] C_WebGL_wasm artifacts/lib_unity_zerojobs/Web-Wasm/8jil/BurstNativeSupport.o
+In file included from E:/20200323_Test2D/ProjectTinySamples-master/TinySpaceship/Library/PackageCache/com.unity.dots.runtime@0.22.0-preview.5/LowLevelSupport~/Unity.ZeroJobs/cpp~/BurstNativeSupport.cpp:8:
+
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\PackageCache\com.unity.dots.runtime@0.22.0-preview.5\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+
+namespace Unity::LowLevel
+
+               ^~~~~~~~~~
+
+                { namespace LowLevel
+
+1 warning generated.
+[ 622/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/Web-Wasm/atyb/dummy.o
+[ 623/1058  1s] C_WebGL_wasm artifacts/lib_unity_tiny_core/Web-Wasm/9n62/Log.o
+[ 624/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_codec/Web-Wasm/atyb/dummy.o
+[ 625/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_codec/Web-Wasm/w2p1/LZ4Wrapper.o
+[ 626/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_io/Web-Wasm/atyb/dummy.o
+[ 627/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_io/Web-Wasm/ev7g/AndroidLoader.o
+[ 628/1058  2s] C_WebGL_wasm artifacts/lib_unity_tiny_io/Web-Wasm/ugzn/TinyIO.o
+In file included from E:/20200323_Test2D/ProjectTinySamples-master/TinySpaceship/Library/PackageCache/com.unity.tiny@0.22.0-preview.7/Unity.Tiny.IO/cpp~/TinyIO.cpp:3:
+
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\PackageCache\com.unity.dots.runtime@0.22.0-preview.5\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+
+namespace Unity::LowLevel
+
+               ^~~~~~~~~~
+
+                { namespace LowLevel
+
+1 warning generated.
+[ 629/1058  2s] C_WebGL_wasm artifacts/lib_unity_tiny_codec/Web-Wasm/7zf6/lz4.o
+[ 630/1058  1s] C_WebGL_wasm artifacts/bimg/Web-Wasm/yw6r/image_gnf.o
+[ 631/1058  3s] C_WebGL_wasm artifacts/bimg/Web-Wasm/yw6r/image.o
+[ 632/1058  2s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/astc_file.o
+[ 633/1058  4s] C_WebGL_wasm artifacts/bx/Web-Wasm/77b1/amalgamated.o
+[ 634/1058  2s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/codec.o
+[ 635/1058  1s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/footprint.o
+[ 636/1058  2s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/endpoint_codec.o
+[ 637/1058  3s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/integer_sequence_codec.o
+[ 638/1058  4s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/intermediate_astc_block.o
+[ 639/1058  3s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/logical_astc_block.o
+[ 640/1058  2s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/physical_astc_block.o
+[ 641/1058  4s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/partition.o
+[ 642/1058  1s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/weight_infill.o
+[ 643/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/Web-Wasm/atyb/dummy.o
+[ 644/1058  2s] C_WebGL_wasm artifacts/bimg/Web-Wasm/wwu2/quantization.o
+[ 645/1058  2s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/Web-Wasm/4aw7/BufferedCallbacks.o
+[ 646/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/sp7d/il2cpp-codegen.o
+[ 647/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/jmop/Stopwatch.o
+[ 648/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/jmop/Debugger.o
+[ 649/1058  4s] C_WebGL_wasm artifacts/boehm-gc/Web-Wasm/3qko/gc.o
+[ 650/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/kkh8/GCHandle.o
+[ 651/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/5t12/Enum.o
+[ 652/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/3oq1/Interlocked.o
+[ 653/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/5t12/Console.o
+[ 654/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/5t12/GC.o
+[ 655/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/5t12/Math.o
+[ 656/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/5t12/Environment.o
+[ 657/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/5t12/Type.o
+[ 658/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/ckog/il2cpp-benchmark-support.o
+[ 659/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/ckog/il2cpp-api.o
+[ 660/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/ckog/il2cpp-virtual-remap.o
+[ 661/1058 11s] C_WebGL_wasm artifacts/bgfx/Web-Wasm/geoa/amalgamated.o
+[ 662/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/quxa/pch-cpp.o
+[ 663/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/DebugMetadata.o
+[ 664/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/Exception.o
+[ 665/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/PlatformInvoke.o
+[ 666/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/Runtime.o
+[ 667/1058  3s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/Reflection.o
+[ 668/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/String.o
+[ 669/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/StackTrace.o
+[ 670/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/Type.o
+[ 671/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/zq8x/Initialize.o
+[ 672/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/2q4c/TypeUniverse.o
+[ 673/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/zq8x/Locale.o
+[ 674/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/zq8x/StackTrace.o
+[ 675/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/zq8x/TimeZoneInfo.o
+[ 676/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Allocator.o
+[ 677/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Console.o
+[ 678/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/COM.o
+[ 679/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/ConditionVariable.o
+[ 680/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/CpuInfo.o
+[ 681/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Directory.o
+[ 682/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Cryptography.o
+[ 683/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Debug.o
+[ 684/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Event.o
+[ 685/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Error.o
+[ 686/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/File.o
+[ 687/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Environment.o
+[ 688/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Handle.o
+[ 689/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/LibraryLoader.o
+[ 690/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Locale.o
+[ 691/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Memory.o
+[ 692/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/MemoryMappedFile.o
+[ 693/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Messages.o
+[ 694/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Mutex.o
+[ 695/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/NativeMethods.o
+[ 696/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Process.o
+[ 697/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Path.o
+[ 698/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Semaphore.o
+[ 699/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Socket.o
+[ 700/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/SystemCertificates.o
+[ 701/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/COMTests.o
+[ 702/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/ConditionVariableTests.o
+[ 703/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/ConsoleTests.o
+[ 704/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/CpuInfoTests.o
+[ 705/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/CryptographyTests.o
+[ 706/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/DebugTests.o
+[ 707/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/DirectoryTests.o
+[ 708/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/EnvironmentTests.o
+[ 709/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/ErrorTests.o
+[ 710/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/FileTests.o
+[ 711/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/LocaleTests.o
+[ 712/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/EventTests.o
+[ 713/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/LibraryLoaderTests.o
+[ 714/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/MemoryMappedFileTests.o
+[ 715/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/MainTestRunner.o
+[ 716/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/MessagesTests.o
+[ 717/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/MemoryTests.o
+[ 718/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/MutexTests.o
+[ 719/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/PathTests.o
+[ 720/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/NativeMethodsTests.o
+[ 721/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/ProcessTests.o
+[ 722/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/ThreadLocalValueTests.o
+[ 723/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/SocketTests.o
+[ 724/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/SemaphoreTests.o
+[ 725/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/ThreadTests.o
+[ 726/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/TimeTests.o
+[ 727/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/usd2/TimeZoneInfoTests.o
+[ 728/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Thread.o
+[ 729/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/ThreadLocalValue.o
+[ 730/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/Time.o
+[ 731/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/TimeZone.o
+[ 732/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/0mhp/TimeZoneInfo.o
+[ 733/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/8u4y/SocketBridge.o
+[ 734/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/Error.o
+[ 735/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/CrashHelpers.o
+[ 736/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/ConditionVariable.o
+[ 737/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/COM.o
+[ 738/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/CpuInfo.o
+[ 739/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/Event.o
+[ 740/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/CrashHelpers.o
+[ 741/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/Environment.o
+[ 742/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/Debug.o
+[ 743/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/Initialize.o
+[ 744/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/Handle.o
+[ 745/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/File.o
+[ 746/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/MarshalStringAlloc.o
+[ 747/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/SocketBridge.o
+[ 748/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/MemoryMappedFile.o
+[ 749/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/Process.o
+[ 750/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/SocketImpl.o
+[ 751/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/SystemCertificates.o
+[ 752/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/TimeZoneInfo.o
+[ 753/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/Debug.o
+[ 754/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vt23/WindowsRuntime.o
+[ 755/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/Automation.o
+[ 756/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/LibraryLoader.o
+[ 757/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/File.o
+[ 758/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/Initialize.o
+[ 759/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/Lifecycle.o
+[ 760/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/Environment.o
+[ 761/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/StackTrace.o
+[ 762/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/Process.o
+[ 763/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/l4if/TimeZoneInfo.o
+[ 764/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/s9qf/Image.o
+[ 765/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/s9qf/Process.o
+[ 766/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/Messages.o
+[ 767/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/s9qf/SystemCertificates.o
+[ 768/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/Mutex.o
+[ 769/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/ConditionVariableImpl.o
+[ 770/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/Path.o
+[ 771/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/CpuInfo.o
+[ 772/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Console.o
+[ 773/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/CrashHelpers.o
+[ 774/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Encoding.o
+[ 775/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Cryptography.o
+[ 776/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Directory.o
+[ 777/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/EventImpl.o
+[ 778/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Environment.o
+[ 779/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Error.o
+[ 780/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/FileSystemWatcher.o
+[ 781/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/File.o
+In file included from E:/20200323_Test2D/ProjectTinySamples-master/TinySpaceship/Library/DotsRuntimeBuild/artifacts/Stevedore/il2cpp/libil2cpp/os/Posix/File.cpp:27:
+
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\DotsRuntimeBuild\artifacts\Stevedore\emscripten\emscripten-nightly-1.38.28-2019_04_05_07_52\system\include\libc\sys\errno.h:1:2: warning: redirecting incorrect #include <sys/errno.h> to <errno.h> [-W#warnings]
+
+#warning redirecting incorrect #include <sys/errno.h> to <errno.h>
+
+ ^
+
+1 warning generated.
+[ 782/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Image.o
+[ 783/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/LastError.o
+[ 784/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Locale.o
+[ 785/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/MarshalAlloc.o
+[ 786/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Memory.o
+[ 787/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/MutexImpl.o
+[ 788/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/LibraryLoader.o
+[ 789/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/MemoryMappedFile.o
+[ 790/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/NativeMethods.o
+[ 791/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/PosixHelpers.o
+[ 792/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Path.o
+[ 793/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/PosixWaitObject.o
+[ 794/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Process.o
+[ 795/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/SemaphoreImpl.o
+[ 796/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/SocketImpl.o
+[ 797/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/StackTrace.o
+[ 798/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/SystemCertificates.o
+[ 799/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/ThreadImpl.o
+[ 800/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/Time.o
+[ 801/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/36wb/TimeZone.o
+[ 802/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/ReaderWriterLock.o
+[ 803/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/Socket.o
+[ 804/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/Semaphore.o
+[ 805/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/StackTrace.o
+[ 806/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/jz1h/ThreadImpl.o
+[ 807/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/COM.o
+[ 808/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/vn11/Thread.o
+[ 809/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/ConditionVariableImpl.o
+[ 810/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Console.o
+[ 811/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/CrashHelpers.o
+[ 812/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/CpuInfo.o
+[ 813/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Cryptography.o
+[ 814/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Debug.o
+[ 815/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/DllMain.o
+[ 816/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Directory.o
+[ 817/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Encoding.o
+[ 818/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Environment.o
+[ 819/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/File.o
+[ 820/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/EventImpl.o
+[ 821/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/FileSystemWatcher.o
+[ 822/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Handle.o
+[ 823/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Image.o
+[ 824/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Initialize.o
+[ 825/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/LastError.o
+[ 826/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/LibraryLoader.o
+[ 827/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Locale.o
+[ 828/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/MarshalAlloc.o
+[ 829/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/MarshalStringAlloc.o
+[ 830/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Memory.o
+[ 831/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/MemoryMappedFile.o
+[ 832/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/MutexImpl.o
+[ 833/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/NativeMethods.o
+[ 834/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Path.o
+[ 835/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/SemaphoreImpl.o
+[ 836/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Process.o
+[ 837/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/SocketImpl.o
+[ 838/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/StackTrace.o
+[ 839/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/SynchronizationContext.o
+[ 840/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/Time.o
+[ 841/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/ThreadImpl.o
+[ 842/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/SystemCertificates.o
+[ 843/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/TimeZone.o
+[ 844/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/WindowsHelpers.o
+[ 845/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/v2jj/WindowsRuntime.o
+[ 846/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/u2rb/Win32ApiWindowsGamesEmulation.o
+[ 847/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/BrokeredFileSystem.o
+[ 848/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/Cryptography.o
+[ 849/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/Environment.o
+[ 850/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/File.o
+[ 851/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/Locale.o
+[ 852/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/Initialize.o
+[ 853/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/MarshalAlloc.o
+[ 854/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/Process.o
+[ 855/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/Win32ApiSharedEmulation.o
+[ 856/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/e3hf/Win32ApiWinRTEmulation.o
+[ 857/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/f981/BoehmGC.o
+[ 858/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/f981/NullGC.o
+[ 859/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/f981/GarbageCollector.o
+[ 860/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/f981/WriteBarrier.o
+[ 861/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/f981/WriteBarrierValidation.o
+[ 862/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/f981/GCHandle.o
+[ 863/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/AtomicQueue.o
+[ 864/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/Assert.o
+[ 865/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/Il2CppHStringReference.o
+[ 866/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/DirectoryUtils.o
+[ 867/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/Exception.o
+[ 868/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/Environment.o
+[ 869/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/MarshalingUtils.o
+[ 870/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/Logging.o
+[ 871/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/MemoryMappedFile.o
+[ 872/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/Memory.o
+[ 873/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/mono-structs.o
+[ 874/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/MemoryPool.o
+[ 875/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/PathUtils.o
+[ 876/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/Output.o
+[ 877/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/Runtime.o
+[ 878/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/RegisterRuntimeInitializeAndCleanup.o
+[ 879/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/q6uc/BlobReader.o
+[ 880/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/q6uc/Debugger.o
+[ 881/1058  1s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/q6uc/NativeDelegateMethodCache.o
+[ 882/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/m6ht/StringUtils.o
+[ 883/1058  0s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/q6uc/VmStringUtils.o
+[ 884/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/Web-Wasm/atyb/dummy.o
+[ 885/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/Web-Wasm/r65d/HTMLWrapper.o
+[ 886/1058  2s] C_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/q6uc/NativeSymbol.o
+[ 887/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/Web-Wasm/r65d/SendMessageCallbackHandler.o
+[ 888/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_input_web/Web-Wasm/atyb/dummy.o
+[ 889/1058  0s] C_WebGL_wasm artifacts/lib_unity_tiny_audio_web/Web-Wasm/atyb/dummy.o
+[ 894/1058  0s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/Web-Wasm/atyb/dummy.o
+[ 895/1058  0s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/Web-Wasm/g9ze/HTMLWrapper.o
+[ 896/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/1g7o/xxhash.o
+[ 922/1058  0s] Lib_WebGL_wasm artifacts/boehm-gc/Web-Wasm/boehm-gc.bc
+[ 923/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/netstandard.dll
+[ 924/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/mscorlib.dll
+[ 925/1058  1s] Lib_WebGL_wasm artifacts/lib_unity_lowlevel/Web-Wasm/lib_unity_lowlevel.bc
+[ 926/1058  2s] Csc artifacts/Unity.LowLevel.dll/Web-Wasm/Unity.LowLevel.dll (+2 others)
+[ 927/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/UnsafeUtility.dll (+pdb)
+[ 928/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.LowLevel.dll (+pdb)
+[ 929/1058  0s] Csc artifacts/Unity.ZeroJobs.dll/Web-Wasm/Unity.ZeroJobs.dll (+2 others)
+[ 930/1058  1s] Csc artifacts/Unity.Burst.dll/Web-Wasm/Unity.Burst.dll (+2 others)
+[ 931/1058  2s] Lib_WebGL_wasm artifacts/lib_unity_zerojobs/Web-Wasm/lib_unity_zerojobs.bc
+[ 932/1058  1s] Csc artifacts/Unity.Entities.StaticTypeRegistry.dll/Web-Wasm/Unity.Entities.StaticTypeRegistry.dll (+2 others)
+[ 933/1058  2s] Csc artifacts/Unity.Platforms.Common.dll/Web-Wasm/Unity.Platforms.Common.dll (+2 others)
+[ 934/1058  1s] Csc artifacts/Unity.Platforms.RunLoop.dll/Web-Wasm/Unity.Platforms.RunLoop.dll (+2 others)
+[ 935/1058  0s] Csc artifacts/Unity.Tiny.Main.dll/Web-Wasm/Unity.Tiny.Main.dll (+2 others)
+[ 936/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.ZeroJobs.dll (+pdb)
+[ 937/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Burst.dll (+pdb)
+[ 938/1058  6s] Csc artifacts/Unity.Mathematics.dll/Web-Wasm/Unity.Mathematics.dll (+2 others)
+[ 939/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Entities.StaticTypeRegistry.dll (+pdb)
+[ 940/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Platforms.Common.dll (+pdb)
+[ 941/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Platforms.RunLoop.dll (+pdb)
+[ 942/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Main.dll (+pdb)
+[ 943/1058  3s] Lib_WebGL_wasm artifacts/lib_unity_tiny_core/Web-Wasm/lib_unity_tiny_core.bc
+[ 944/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Mathematics.dll (+pdb)
+[ 945/1058 10s] Lib_WebGL_wasm artifacts/libil2cpptiny/Web-Wasm/libil2cpptiny.bc
+[ 946/1058  4s] Lib_WebGL_wasm artifacts/lib_unity_tiny_codec/Web-Wasm/lib_unity_tiny_codec.bc
+[ 947/1058  1s] Lib_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/Web-Wasm/lib_unity_tiny_image2d_web.bc
+[ 948/1058  2s] Csc artifacts/Unity.Collections.dll/Web-Wasm/Unity.Collections.dll (+2 others)
+[ 949/1058  2s] Lib_WebGL_wasm artifacts/lib_unity_tiny_io/Web-Wasm/lib_unity_tiny_io.bc
+[ 950/1058  2s] Lib_WebGL_wasm artifacts/lib_unity_tiny_web/Web-Wasm/lib_unity_tiny_web.bc
+[ 951/1058  0s] Csc artifacts/Unity.Tiny.Codec.dll/Web-Wasm/Unity.Tiny.Codec.dll (+2 others)
+[ 952/1058  0s] Csc artifacts/Unity.Jobs.dll/Web-Wasm/Unity.Jobs.dll (+2 others)
+[ 953/1058  2s] Lib_WebGL_wasm artifacts/lib_unity_platforms_runloop/Web-Wasm/lib_unity_platforms_runloop.bc
+[ 954/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Collections.dll (+pdb)
+[ 955/1058  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_input_web/Web-Wasm/lib_unity_tiny_input_web.bc
+[ 956/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Codec.dll (+pdb)
+[ 957/1058  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_audio_web/Web-Wasm/lib_unity_tiny_audio_web.bc
+[ 958/1058  0s] Csc artifacts/Unity.Mathematics.Extensions.dll/Web-Wasm/Unity.Mathematics.Extensions.dll (+2 others)
+[ 959/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Jobs.dll (+pdb)
+[ 960/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Mathematics.Extensions.dll (+pdb)
+[ 961/1058  3s] Lib_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/Web-Wasm/lib_unity_tiny_rendering_native.bc
+[ 962/1058  2s] Csc artifacts/Unity.Entities.dll/Web-Wasm/Unity.Entities.dll (+2 others)
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\ApiCompatibilityLevelTest.cs(2,10): warning CS1030: #����:��Project is expected to have API Compatibility Level set to .NET Standard 2.0��
+
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\TypeManager.cs(491,27): warning CS0169: �Ӳ�ʹ���ֶΡ�TypeManager.ObjectOffsetType.v0��
+
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\FastEquality.cs(189,27): warning CS0169: �Ӳ�ʹ���ֶΡ�FastEquality.PointerSize.pter��
+
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\TypeManager.cs(492,27): warning CS0169: �Ӳ�ʹ���ֶΡ�TypeManager.ObjectOffsetType.v1��
+[ 963/1058  0s] Csc artifacts/Unity.Entities.Runtime.dll/Web-Wasm/Unity.Entities.Runtime.dll (+2 others)
+[ 964/1058  0s] Csc artifacts/Unity.Tiny.Core.dll/Web-Wasm/Unity.Tiny.Core.dll (+2 others)
+[ 965/1058  0s] Csc artifacts/Unity.Transforms.dll/Web-Wasm/Unity.Transforms.dll (+2 others)
+[ 966/1058  0s] Csc artifacts/Unity.Tiny.Image2D.dll/Web-Wasm/Unity.Tiny.Image2D.dll (+2 others)
+[ 967/1058  0s] Csc artifacts/Unity.Tiny.IO.dll/Web-Wasm/Unity.Tiny.IO.dll (+2 others)
+[ 968/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Entities.Runtime.dll (+pdb)
+[ 969/1058  0s] Csc artifacts/Unity.Tiny.Web.dll/Web-Wasm/Unity.Tiny.Web.dll (+2 others)
+E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\PackageCache\com.unity.tiny.web@0.22.0-preview.7\Runtime\Unity.Tiny.Web\SendMessageHandler.cs(72,46): warning CS0618: '��World.Active���ѹ�ʱ:��World.Active has been deprecated. The most common & incorrect usage has been to use World.Active from a ComponentSystem. From a ComponentSystem you should use the ComponentSystem's World property directly. It returns the world that this system belongs to. There are some rare cases where a MonoBehaviour needs to inject data into the active world, in this case use World.DefaultGameObjectInjectionWorld. (RemovedAfter 2020-01-22)��
+[ 970/1058  0s] Csc artifacts/Unity.Tiny.Audio.dll/Web-Wasm/Unity.Tiny.Audio.dll (+2 others)
+[ 971/1058  0s] Csc artifacts/Unity.2D.Entities.dll/Web-Wasm/Unity.2D.Entities.dll (+2 others)
+[ 972/1058  0s] Csc artifacts/Unity.Tiny.Rendering.dll/Web-Wasm/Unity.Tiny.Rendering.dll (+2 others)
+[ 973/1058  2s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Entities.dll (+pdb)
+[ 974/1058  0s] Csc artifacts/Unity.Tiny.Input.dll/Web-Wasm/Unity.Tiny.Input.dll (+2 others)
+[ 975/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Core.dll (+pdb)
+[ 976/1058  0s] Csc artifacts/Unity.Tiny.Image2D.Web.dll/Web-Wasm/Unity.Tiny.Image2D.Web.dll (+2 others)
+[ 977/1058  1s] Csc artifacts/Unity.2D.Entities.Physics.dll/Web-Wasm/Unity.2D.Entities.Physics.dll (+2 others)
+[ 978/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Transforms.dll (+pdb)
+[ 979/1058  0s] Csc artifacts/Unity.Tiny.Scenes.dll/Web-Wasm/Unity.Tiny.Scenes.dll (+2 others)
+[ 980/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Image2D.dll (+pdb)
+[ 981/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.IO.dll (+pdb)
+[ 982/1058  0s] Csc artifacts/Unity.Tiny.Audio.Web.dll/Web-Wasm/Unity.Tiny.Audio.Web.dll (+2 others)
+[ 983/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Web.dll (+pdb)
+[ 984/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Audio.dll (+pdb)
+[ 985/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Rendering.dll (+pdb)
+[ 986/1058  0s] Csc artifacts/Unity.Tiny.Input.Web.dll/Web-Wasm/Unity.Tiny.Input.Web.dll (+2 others)
+[ 987/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.2D.Entities.dll (+pdb)
+[ 988/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Input.dll (+pdb)
+[ 989/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Image2D.Web.dll (+pdb)
+[ 990/1058  1s] Csc artifacts/Unity.Tiny.Rendering.Native.dll/Web-Wasm/Unity.Tiny.Rendering.Native.dll (+2 others)
+[ 991/1058  0s] Csc artifacts/Unity.Tiny.UnityInstance.dll/Web-Wasm/Unity.Tiny.UnityInstance.dll (+2 others)
+[ 992/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.2D.Entities.Physics.dll (+pdb)
+[ 993/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Scenes.dll (+pdb)
+[ 994/1058  1s] Csc artifacts/Unity.2D.Entities.Runtime.dll/Web-Wasm/Unity.2D.Entities.Runtime.dll (+2 others)
+[ 995/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Audio.Web.dll (+pdb)
+[ 996/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Input.Web.dll (+pdb)
+[ 997/1058  0s] Csc artifacts/Unity.Tiny.EntryPoint.exe/Web-Wasm/Unity.Tiny.EntryPoint.exe (+2 others)
+[ 998/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.UnityInstance.dll (+pdb)
+[ 999/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.Rendering.Native.dll (+pdb)
+[1000/1058  0s] Csc artifacts/TinySpaceship.dll/Web-Wasm/TinySpaceship.dll (+2 others)
+[1001/1058  0s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.Tiny.EntryPoint.exe (+pdb)
+[1002/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/Unity.2D.Entities.Runtime.dll (+pdb)
+[1003/1058  1s] ILPostProcessorRunner artifacts/TinySpaceship/Web-Wasm/post_ilprocessing/TinySpaceship.dll (+pdb)
+[BUSY       6s] TypeRegGen artifacts/TinySpaceship/Web-Wasm/post_typereg/TinySpaceship.dll (+68 others)
+[1004/1058  8s] TypeRegGen artifacts/TinySpaceship/Web-Wasm/post_typereg/TinySpaceship.dll (+68 others)
+[1005/1058  5s] UnityLinker artifacts/TinySpaceship/Web-Wasm_stripped/TinySpaceship.dll (+68 others)
+[BUSY       6s] Il2Cpp artifacts/TinySpaceship/Web-Wasm_stripped/TinySpaceship.dll-il2cpp-sources/driver.cpp (+44 others)
+[1006/1058 10s] Il2Cpp artifacts/TinySpaceship/Web-Wasm_stripped/TinySpaceship.dll-il2cpp-sources/driver.cpp (+44 others)
+Running il2cpp.exe in server GC mode.
+[1007/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/driver.o
+[1008/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Il2CppGenericComDefinitions.o
+[1009/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/ReversePInvokeWrappers.o
+[1010/1058  2s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/TinyTypes.o
+[1011/1058  2s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/StaticConstructors.o
+[1012/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/StringLiterals.o
+[1013/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/StaticInitialization.o
+[1014/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.EntryPoint.o
+[1015/1058  3s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/TinySpaceship.o
+[1016/1058  2s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Input.Web.o
+[1017/1058  5s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Rendering.Native.o
+[1018/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Audio.Web.o
+[1019/1058  2s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Web.o
+[1020/1058  2s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.ZeroJobs.o
+[1021/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.LowLevel.o
+[BUSY       6s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Entities.o
+[1022/1058 23s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/GenericMethods.o
+[1023/1058  5s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Transforms.o
+[1024/1058  4s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Collections.o
+[1025/1058  5s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Mathematics.o
+[1026/1058 12s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Entities.o
+[1027/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Jobs.o
+[1028/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Core.o
+[1029/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Audio.o
+[1030/1058  3s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Rendering.o
+[1031/1058  2s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Input.o
+[1032/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Main.o
+[1033/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Burst.o
+[1034/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.2D.Entities.o
+[1035/1058 35s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Generics.o
+[1036/1058  3s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.2D.Entities.Runtime.o
+[1037/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/netstandard.o
+[1038/1058  3s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/mscorlib.o
+[1039/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Image2D.o
+[1040/1058  2s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Image2D.Web.o
+[1041/1058  5s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.2D.Entities.Physics.o
+[1042/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Mathematics.Extensions.o
+[1043/1058  2s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Scenes.o
+[1044/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Platforms.Common.o
+[1045/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/UnsafeUtility.o
+[1046/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.UnityInstance.o
+[1047/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Platforms.RunLoop.o
+[1048/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Entities.Runtime.o
+[1049/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.Codec.o
+[1050/1058  1s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Tiny.IO.o
+[1051/1058  6s] C_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/3kqs/Unity.Entities.StaticTypeRegistry.o
+[BUSY       6s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      26s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      36s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      46s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      56s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      66s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      76s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      86s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY      96s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY     106s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY     116s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY     126s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[BUSY     136s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+[1052/1058 136s] Link_WebGL_wasm artifacts/TinySpaceship.il2cpp/Web-Wasm/TinySpaceship.html (+wasm,symbols,js)
+emcc:WARNING: for wasm there is no need to set ELIMINATE_DUPLICATE_FUNCTIONS, the binaryen optimizer does it automatically
+
+cache:INFO: generating system library: libc-wasm.bc... (this will be cached in "E:\20200323_Test2D\ProjectTinySamples-master\TinySpaceship\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libc-wasm.bc" for subsequent builds)
+
+cache:INFO:  - ok
+[1053/1058  0s] CopyTool ../../Builds/Web-Wasm/TinySpaceship.wasm
+[1054/1058  0s] CopyTool ../../Builds/Web-Wasm/TinySpaceship.symbols
+[1055/1058  0s] CopyTool ../../Builds/Web-Wasm/TinySpaceship.js
+[1056/1058  0s] CopyTool ../../Builds/Web-Wasm/TinySpaceship.html
+[           0s] Destroying Roslyn Shared Compiler Server
+*** Bee build success (328.71 seconds - 0:05:28), 436 items updated
